@@ -1,7 +1,7 @@
 # Edible_Mushrooms
 Binary Logistic Regression Model to Determine if a Mushroom is Edible or Poisonous.
 
-About Data (https://www.kaggle.com/uciml/mushroom-classification):
+About Data (source:  https://www.kaggle.com/uciml/mushroom-classification):
 
 - Attribute Information: (classes: edible=e, poisonous=p)
 - cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
